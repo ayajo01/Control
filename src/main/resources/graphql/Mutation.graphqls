@@ -1,0 +1,4 @@
+type Mutation {
+    saveBook(titre: String, publisher: String, price: Float, resume: String): Book
+
+}

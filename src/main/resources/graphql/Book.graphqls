@@ -1,0 +1,6 @@
+type Book{
+    titre:String
+    publisher:String
+    price:Float
+    resume:String
+}
